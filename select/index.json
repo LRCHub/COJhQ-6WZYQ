@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "五文銭",
+  "base_artist": "Moroha",
+  "createdAt": "2025-12-23T17:05:43.292476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "五文銭",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/01_五文銭_MOROHA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "五文銭",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_五文銭_MOROHA.txt"
+    }
+  ]
+}
